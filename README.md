@@ -29,6 +29,9 @@ lo que hace en Node-RED
 ## septimo punto 
 el **JSON** convertirlo siempre en JaveScrip 
 
+## url para dashboard consultar
+*http://localhost:1880/ui*
+
 
 
 
