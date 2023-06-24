@@ -32,6 +32,9 @@ el **JSON** convertirlo siempre en JaveScrip
 ## url para dashboard consultar
 *http://localhost:1880/ui*
 
-
+## octavo comando para realizar mysql
+**docker exec -it 9acdac6f354a mysql -p**
+## noveno comando para bases de datos 
+mysql>**show databases**
 
 
