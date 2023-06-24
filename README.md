@@ -36,5 +36,7 @@ el **JSON** convertirlo siempre en JaveScrip
 **docker exec -it 9acdac6f354a mysql -p**
 ## noveno comando para bases de datos 
 mysql>**show databases**
+![imagen](https://github.com/URIEL0ARTURO0DOMINGUEZ0VELAZQUEZ/Comandos-Docker-importantes/assets/136390705/3320b911-5251-4419-b4f3-7a169f710951)
+
 
 
