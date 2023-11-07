@@ -1,7 +1,7 @@
 #### Comandos-Docker-importantes
 comandos que se utilizan regularmente
 
-## primer comando sirve para saber el la dirreccion para nuestro Broker
+## primer comando sirve para saber el la direccion para nuestro Broker
 **nslookup broker.hivemq.com**         o tambien
 **nslookup public.mqtthq.com**
 
